@@ -1,7 +1,8 @@
 # Monty-Carlo-Craps
 ### What is a Monty Carlo Simulation?
 A simulation to aquire the probability of getting a result in an
-activity or game by running it many times and comparing all results.
+activity or game by running it many times. Then, the occurrence of the 
+desired result is compared the total number of times it was run.
 
 ### This Game
 This program is a Monty Carlo simulation of the game of craps.
